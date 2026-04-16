@@ -188,3 +188,7 @@ Projeto desenvolvido por estudantes de ADS – UNIP:
 O projeto demonstra como a tecnologia pode ser aplicada em negócios tradicionais para gerar inovação, eficiência e melhor experiência para o usuário.
 
 Mais do que um sistema, é uma proposta de transformação no modelo de atendimento de hortifrútis.
+
+## 📄 Licença
+
+Este projeto é fornecido como avaliação acadêmica. Todos os direitos reservados.
