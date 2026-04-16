@@ -189,6 +189,8 @@ O projeto demonstra como a tecnologia pode ser aplicada em negócios tradicionai
 
 Mais do que um sistema, é uma proposta de transformação no modelo de atendimento de hortifrútis.
 
+---
+
 ## 📄 Licença
 
 Este projeto é fornecido como avaliação acadêmica. Todos os direitos reservados.
